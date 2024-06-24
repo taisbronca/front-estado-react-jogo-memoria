@@ -1,13 +1,15 @@
-# Estados React
+# React States
 
+Deploy: https://front-state-react-memory-game.vercel.app/
 
-1. O mini-desafio se trata de um jogo da memória onde teremos alguma cartas e precisamos clicar nelas para virá-las e tentar fazer o 'match' com alguma carta.
+- The mini-challenge is a memory game where we have several cards, and we need to click on them to flip them and try to match pairs.
 
-Veja na imagem abaixo o layout:
+See the layout in the image below:
+
 ![](https://i.imgur.com/wWQgq7Z.png)
 
 
 ---
 
-###### tags: `estados` `front-end` `React`
+###### tags: `states` `front-end` `React`
 
